@@ -1,0 +1,262 @@
+{
+  "data": {
+    "boards": [
+      {
+        "items_page": {
+          "cursor": null,
+          "items": [
+            {
+              "id": "5315938670",
+              "name": "Sebastian Madero Mercado",
+              "column_values": [
+                { "id": "subelementos", "text": "", "value": "{}" },
+                {
+                  "id": "estado2",
+                  "text": "Vinculado",
+                  "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2023-10-27T21:06:15.718Z\"}"
+                },
+                {
+                  "id": "estado_126",
+                  "text": "No",
+                  "value": "{\"index\":11,\"post_id\":null,\"changed_at\":\"2023-10-27T21:06:19.862Z\"}"
+                },
+                {
+                  "id": "estado_122",
+                  "text": "Masculino",
+                  "value": "{\"index\":0,\"post_id\":null,\"changed_at\":\"2023-10-11T19:10:01.502Z\"}"
+                },
+                {
+                  "id": "texto0",
+                  "text": "1.235.046.579",
+                  "value": "\"1.235.046.579\""
+                },
+                {
+                  "id": "archivo5",
+                  "text": "https://geh-suites.monday.com/protected_static/13696693/resources/1102294223/Cedula%20sebastian%20madero%20mercado.pdf",
+                  "value": "{\"files\":[{\"name\":\"Cedula sebastian madero mercado.pdf\",\"assetId\":1102294223,\"isImage\":\"false\",\"fileType\":\"ASSET\",\"extension\":\"pdf\"}]}"
+                },
+                {
+                  "id": "estado_18",
+                  "text": "B Positivo",
+                  "value": "{\"index\":13}"
+                },
+                {
+                  "id": "fecha5",
+                  "text": "1999-11-30",
+                  "value": "{\"date\":\"1999-11-30\",\"changed_at\":\"2023-10-11T19:10:01.511Z\"}"
+                },
+                {
+                  "id": "texto7",
+                  "text": "Cartagena - Bolivar",
+                  "value": "\"Cartagena - Bolivar\""
+                },
+                { "id": "text7", "text": "No", "value": "\"No\"" },
+                { "id": "text09", "text": "No", "value": "\"No\"" },
+                {
+                  "id": "estado_12",
+                  "text": "18 - 29 Años",
+                  "value": "{\"index\":0,\"post_id\":null,\"changed_at\":\"2023-10-27T21:09:18.719Z\"}"
+                },
+                { "id": "texto87", "text": "3", "value": "\"3\"" },
+                {
+                  "id": "status",
+                  "text": "Hotel Aixo Suites",
+                  "value": "{\"index\":0,\"post_id\":null,\"changed_at\":\"2023-10-27T21:09:20.663Z\"}"
+                },
+                {
+                  "id": "estado_14",
+                  "text": "CARIBE HOTELES & SUITES SAS",
+                  "value": "{\"index\":0,\"post_id\":null,\"changed_at\":\"2023-10-27T21:10:03.071Z\"}"
+                },
+                {
+                  "id": "estado_1",
+                  "text": "Termino Fijo",
+                  "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2023-10-27T21:09:33.592Z\"}"
+                },
+                { "id": "estado_118", "text": "NO", "value": null },
+                {
+                  "id": "men__desplegable",
+                  "text": "Programador de Software",
+                  "value": "{\"ids\":[69]}"
+                },
+                {
+                  "id": "estado_19",
+                  "text": "Administrativo",
+                  "value": "{\"index\":0,\"post_id\":null,\"changed_at\":\"2023-10-27T21:10:15.711Z\"}"
+                },
+                { "id": "n_meros1", "text": "1512932", "value": "\"1512932\"" },
+                {
+                  "id": "ubicaci_n",
+                  "text": "Cl 29 #50-52, Conjunto residencial parque de Zaragocilla, torre p6 apto. 202",
+                  "value": "{\"lat\":\"10.3999335\",\"lng\":\"-75.5059838\",\"city\":{\"long_name\":\"Cartagena de Indias\",\"short_name\":\"Cartagena de Indias\"},\"street\":{\"long_name\":\"Calle 24\",\"short_name\":\"Cl. 24\"},\"address\":\"Cl 29 #50-52, Conjunto residencial parque de Zaragocilla, torre p6 apto. 202\",\"country\":{\"long_name\":\"Colombia\",\"short_name\":\"CO\"},\"placeId\":\"ChIJC6__QJUl9o4RQ4D4px-VfRg\",\"changed_at\":\"2023-10-27T21:25:41.855Z\",\"streetNumber\":{\"long_name\":\"50225\",\"short_name\":\"50225\"}}"
+                },
+                {
+                  "id": "text4",
+                  "text": "Cl 29 #50-52, Conjunto residencial parque de Zaragocilla, torre p6 apto. 202",
+                  "value": "\"Cl 29 #50-52, Conjunto residencial parque de Zaragocilla, torre p6 apto. 202\""
+                },
+                {
+                  "id": "estado_16",
+                  "text": "Profesional",
+                  "value": "{\"index\":4,\"post_id\":null,\"changed_at\":\"2023-10-27T21:10:33.740Z\"}"
+                },
+                {
+                  "id": "tel_fono_1",
+                  "text": "573002226417",
+                  "value": "{\"phone\":\"573002226417\",\"changed_at\":\"2023-10-27T21:06:09.664Z\",\"countryShortName\":\"CO\"}"
+                },
+                { "id": "phone", "text": "", "value": null },
+                {
+                  "id": "email",
+                  "text": "sebastiandevmm@gmail.com",
+                  "value": "{\"text\":\"sebastiandevmm@gmail.com\",\"email\":\"sebastiandevmm@gmail.com\"}"
+                },
+                {
+                  "id": "color9",
+                  "text": "Soltero (a)",
+                  "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2023-12-12T15:25:06.630Z\"}"
+                },
+                {
+                  "id": "color7",
+                  "text": "Familiar",
+                  "value": "{\"index\":19,\"post_id\":null,\"changed_at\":\"2023-12-12T15:25:23.964Z\"}"
+                },
+                {
+                  "id": "color",
+                  "text": "Ninguno",
+                  "value": "{\"index\":4,\"post_id\":null,\"changed_at\":\"2023-12-12T15:25:26.484Z\"}"
+                },
+                { "id": "estado_166", "text": "-", "value": null },
+                { "id": "n_meros", "text": "", "value": null },
+                {
+                  "id": "archivo3",
+                  "text": "https://geh-suites.monday.com/protected_static/13696693/resources/1129282988/Certificaci%C3%B3n%20de%20producto9854.pdf",
+                  "value": "{\"files\":[{\"name\":\"Certificación de producto9854.pdf\",\"assetId\":1129282988,\"isImage\":\"false\",\"fileType\":\"ASSET\",\"createdAt\":1700060947236,\"createdBy\":\"35914928\"}]}"
+                },
+                {
+                  "id": "estado",
+                  "text": "Salud Total",
+                  "value": "{\"index\":3,\"post_id\":null,\"changed_at\":\"2023-10-27T21:10:45.303Z\"}"
+                },
+                {
+                  "id": "archivo60",
+                  "text": "https://geh-suites.monday.com/protected_static/13696693/resources/1184404910/afiliacion%20sebastian%20madero%20220231128_10003764.pdf",
+                  "value": "{\"files\":[{\"name\":\"afiliacion sebastian madero 220231128_10003764.pdf\",\"assetId\":1184404910,\"isImage\":\"false\",\"fileType\":\"ASSET\",\"createdAt\":1703172518549,\"createdBy\":\"35914928\"}]}"
+                },
+                {
+                  "id": "estado6",
+                  "text": "Proteccion",
+                  "value": "{\"index\":0,\"post_id\":null,\"changed_at\":\"2023-11-28T14:29:30.240Z\"}"
+                },
+                {
+                  "id": "archivo9",
+                  "text": "https://geh-suites.monday.com/protected_static/13696693/resources/1148464967/CERTIFICADO%20PO%2028%20NOVIEMBRE%202023%20SEBASTIAN%20MADERO%20MERCADO%20(1).pdf",
+                  "value": "{\"files\":[{\"name\":\"CERTIFICADO PO 28 NOVIEMBRE 2023 SEBASTIAN MADERO MERCADO (1).pdf\",\"assetId\":1148464967,\"isImage\":\"false\",\"fileType\":\"ASSET\",\"createdAt\":1701198511779,\"createdBy\":\"35914928\"}]}"
+                },
+                {
+                  "id": "estado0",
+                  "text": "SURA",
+                  "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2023-10-27T21:11:05.579Z\"}"
+                },
+                {
+                  "id": "archivo1",
+                  "text": "https://geh-suites.monday.com/protected_static/13696693/resources/1111966379/certificadoAfiliacion_C1235046579_2023-10-30T16_47_20-05_00%20(1).pdf",
+                  "value": "{\"files\":[{\"name\":\"certificadoAfiliacion_C1235046579_2023-10-30T16_47_20-05_00 (1).pdf\",\"assetId\":1111966379,\"isImage\":\"false\",\"fileType\":\"ASSET\",\"createdAt\":1699027425165,\"createdBy\":\"35914928\"}]}"
+                },
+                {
+                  "id": "estado8",
+                  "text": "Comfamiliar",
+                  "value": "{\"index\":0,\"post_id\":null,\"changed_at\":\"2023-10-27T21:11:08.041Z\"}"
+                },
+                {
+                  "id": "archivo32",
+                  "text": "https://geh-suites.monday.com/protected_static/13696693/resources/1121095909/MADERO%20MERCADO%20SEBASTIAN.pdf",
+                  "value": "{\"files\":[{\"name\":\"MADERO MERCADO SEBASTIAN.pdf\",\"assetId\":1121095909,\"isImage\":\"false\",\"fileType\":\"ASSET\",\"createdAt\":1699534743307,\"createdBy\":\"35914928\"}]}"
+                },
+                {
+                  "id": "estado_110",
+                  "text": "A",
+                  "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2023-10-27T21:11:11.675Z\"}"
+                },
+                {
+                  "id": "fecha",
+                  "text": "2023-11-01",
+                  "value": "{\"date\":\"2023-11-01\",\"changed_at\":\"2023-10-27T21:11:19.035Z\"}"
+                },
+                { "id": "fecha6", "text": "", "value": null },
+                {
+                  "id": "fecha0",
+                  "text": "2023-09-28",
+                  "value": "{\"date\":\"2023-09-28\",\"changed_at\":\"2024-01-15T21:18:46.284Z\"}"
+                },
+                {
+                  "id": "archivo0",
+                  "text": "https://geh-suites.monday.com/protected_static/13696693/resources/1220280084/SEBASTIAN%20DAVID%20RAMIREZ%20IGLESIAS.pdf",
+                  "value": "{\"files\":[{\"name\":\"SEBASTIAN DAVID RAMIREZ IGLESIAS.pdf\",\"assetId\":1220280084,\"isImage\":\"false\",\"fileType\":\"ASSET\",\"createdAt\":1705353531457,\"createdBy\":\"37162658\"}]}"
+                },
+                { "id": "fecha7", "text": "", "value": null },
+                { "id": "archivo87", "text": "", "value": null },
+                {
+                  "id": "archivo",
+                  "text": "https://geh-suites.monday.com/protected_static/13696693/resources/1102294236/Sebastian%20madero%20mercado%20cv%20(1).pdf, https://geh-suites.monday.com/protected_static/13696693/resources/1102313291/Sebastian%20madero%20mercado%20cv%20(1).pdf",
+                  "value": "{\"files\":[{\"name\":\"Sebastian madero mercado cv (1).pdf\",\"assetId\":1102294236,\"isImage\":\"false\",\"fileType\":\"ASSET\",\"extension\":\"pdf\"},{\"name\":\"Sebastian madero mercado cv (1).pdf\",\"assetId\":1102313291,\"isImage\":\"false\",\"fileType\":\"ASSET\",\"createdAt\":1698441931549,\"createdBy\":\"35914928\"}]}"
+                },
+                { "id": "estado_17", "text": "N/A", "value": null },
+                { "id": "estado_176", "text": "N/A", "value": null },
+                { "id": "estado_11", "text": "N / A", "value": null },
+                { "id": "file", "text": "", "value": null },
+                { "id": "archivo63", "text": "", "value": null },
+                {
+                  "id": "archivo8",
+                  "text": "https://geh-suites.monday.com/protected_static/13696693/resources/1239619284/contrato%20sebastian%20madero%2020240122_10531646.pdf",
+                  "value": "{\"files\":[{\"name\":\"contrato sebastian madero 20240122_10531646.pdf\",\"assetId\":1239619284,\"isImage\":\"false\",\"fileType\":\"ASSET\",\"createdAt\":1706109093297,\"createdBy\":\"35914928\"}]}"
+                },
+                { "id": "archivo2", "text": "", "value": null },
+                { "id": "archivo02", "text": "", "value": null },
+                { "id": "archivo6", "text": "", "value": null },
+                {
+                  "id": "archivo_11",
+                  "text": "https://geh-suites.monday.com/protected_static/13696693/resources/1078355318/Certificado.pdf",
+                  "value": "{\"files\":[{\"name\":\"Certificado.pdf\",\"assetId\":1078355318,\"isImage\":\"false\",\"fileType\":\"ASSET\",\"extension\":\"pdf\"}]}"
+                },
+                {
+                  "id": "archivo36",
+                  "text": "https://geh-suites.monday.com/protected_static/13696693/resources/1078357856/Polic%C3%ADa%20Nacional%20de%20Colombia.pdf",
+                  "value": "{\"files\":[{\"name\":\"Policía Nacional de Colombia.pdf\",\"assetId\":1078357856,\"isImage\":\"false\",\"fileType\":\"ASSET\",\"extension\":\"pdf\"}]}"
+                },
+                { "id": "status5", "text": null, "value": null },
+                {
+                  "id": "estado_123",
+                  "text": "Hotel Azuan Suites",
+                  "value": "{\"index\":4,\"post_id\":null,\"changed_at\":\"2023-11-01T21:57:14.833Z\"}"
+                },
+                {
+                  "id": "fecha3",
+                  "text": "2024-11-30",
+                  "value": "{\"date\":\"2024-11-30\",\"changed_at\":\"2023-12-27T19:42:06.625Z\"}"
+                },
+                {
+                  "id": "estado_197",
+                  "text": "Por cumplir",
+                  "value": "{\"index\":0,\"post_id\":null,\"changed_at\":\"2023-12-27T21:16:41.096Z\"}"
+                },
+                {
+                  "id": "_ltima_actualizaci_n",
+                  "text": "2024-02-01 16:02:52 UTC",
+                  "value": "{\"updated_at\":\"2024-02-01T16:02:52Z\",\"updater_id\":\"35914928\"}"
+                },
+                {
+                  "id": "creaci_n_de_registro",
+                  "text": "2023-10-11 19:10:01 UTC",
+                  "value": "{\"created_at\":\"2023-10-11T19:10:01Z\",\"creator_id\":\"35419396\"}"
+                },
+                { "id": "bot_n", "text": "Click me", "value": null }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "account_id": 13696693
+}
