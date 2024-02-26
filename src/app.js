@@ -38,21 +38,37 @@ const mondayFetch = async (cursor = "") => {
   // }`;
   const pulseId = 5315938670;
   // ! Filtrar por id, webhooks
+  // const query = `query {
+  //   boards (ids: 3426311372) {
+  //     items_page (
+  //              query_params: {ids: ${pulseId}},
+  //            )  {
+  //       cursor
+  //       items {
+  //         id
+  //         name
+  //         column_values { id text value }
+  //       }
+  //     }
+  //   }
+  // }`;
+
+  // "query {   boards(ids: 3426311372) {  groups(ids: topics) {  items { id  name  column_values {  id  text  value  }  } } } } ";
   const query = `query {
     boards (ids: 3426311372) {
-      items_page (
-               query_params: {ids: ${pulseId}},
-             )  {
-        cursor
-        items {
-          id
-          name
-          column_values { id text value }
-        }
+        items_page{
+          cursor
+          items {
+            id
+            name
+            column_values {
+              id
+            }
+          }
+        
       }
     }
   }`;
-  // "query {   boards(ids: 3426311372) {  groups(ids: topics) {  items { id  name  column_values {  id  text  value  }  } } } } ";
   try {
     const response = await fetch("https://api.monday.com/v2", {
       method: "POST",
@@ -75,7 +91,7 @@ const mondayFetch = async (cursor = "") => {
     console.log(error);
   }
 };
-// const usuario = res.data.boards[0].items_page.items[0];
+// const usuario = res.data.boards[0].items_page.items[0].name;
 // console.log(usuario.column_values[15].text);
-// console.log(usuario.name);
+// console.log(usuario);
 mondayFetch();
