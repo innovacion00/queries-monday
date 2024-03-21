@@ -69,6 +69,15 @@ const mondayFetch = async (cursor = "") => {
       }
     }
   }`;
+// ! Consultar el id de los grupo dentro del tablero
+//   const query = `query {
+//     boards (ids: ${romiCallTablero}) {
+//         groups {
+//             id
+//             title
+//         }
+//     }
+// }`;
   try {
     const response = await fetch("https://api.monday.com/v2", {
       method: "POST",
